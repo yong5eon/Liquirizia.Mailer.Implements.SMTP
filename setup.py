@@ -36,7 +36,7 @@ setup(
 
 	],
 	install_requires=[
-		'Liquirizia.Mailer@git+https://github.com/team-of-mine-labs/Liquirizia.Mailer.git',
+		'Liquirizia.Mailer@git+https://github.com/yong5eon/Liquirizia.Mailer.git',
 	],
 	python_requires='>=3.8'
 )
